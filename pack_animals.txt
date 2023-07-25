@@ -1,0 +1,5 @@
+Apollo: horse
+Angel: horse
+Bruce: camel
+Joker: camel
+Zeus: donkey

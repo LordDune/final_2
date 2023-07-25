@@ -1,0 +1,5 @@
+Mary: dog
+Rex: dog
+Kitty: cat
+Goldy: hamster
+Alice: hamster

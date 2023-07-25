@@ -1,0 +1,10 @@
+Mary: dog
+Rex: dog
+Kitty: cat
+Goldy: hamster
+Alice: hamster
+Apollo: horse
+Angel: horse
+Bruce: camel
+Joker: camel
+Zeus: donkey
